@@ -1,7 +1,7 @@
 exports.COLOR_THEMES = {
   default: {
     colors: {
-      primary: '#7D7AFF',
+      primary: '#00FFF0',
       'gradient-1': '#7d7aff',
       'gradient-2': '#2121e2',
       'gradient-3': '#00fff0',
@@ -10,7 +10,7 @@ exports.COLOR_THEMES = {
   },
   bejamas: {
     colors: {
-      primary: '#FF8585',
+      primary: '#FF76B8',
       'gradient-1': '#7d7aff',
       'gradient-2': '#2121E2',
       'gradient-3': '#FF76B8',
@@ -19,7 +19,7 @@ exports.COLOR_THEMES = {
   },
   netlify: {
     colors: {
-      primary: '#00A354',
+      primary: '#FAFF00',
       'gradient-1': '#00F0FF',
       'gradient-2': '#00F0FF',
       'gradient-3': '#FAFF00',
@@ -28,7 +28,7 @@ exports.COLOR_THEMES = {
   },
   reddie: {
     colors: {
-      primary: '#FF4D4D',
+      primary: '#FF85DD',
       'gradient-1': '#FFC700',
       'gradient-2': '#FF85DD',
       'gradient-3': '#FF85DD',
@@ -37,7 +37,7 @@ exports.COLOR_THEMES = {
   },
   greenie: {
     colors: {
-      primary: '#C78500',
+      primary: '#00F37F',
       'gradient-1': '#FFCC81',
       'gradient-2': '#00F37F',
       'gradient-3': '#00F37F',
